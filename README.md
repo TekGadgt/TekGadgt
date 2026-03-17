@@ -13,3 +13,22 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
+
+## Projects
+
+### [cssdaily.dev](https://github.com/TekGadgt/cssdaily.dev)
+
+A daily CSS challenge game with AI-generated puzzles and real-time pixel-accurate scoring. [Play it live](https://cssdaily.dev)
+
+- Claude generates daily challenges, Playwright renders targets, GitHub Actions deploys — fully automated pipeline
+- Pixel-level visual diffing engine scores your CSS in real time as you type
+- Built with Astro, React, CodeMirror, Tailwind
+
+### [Conclave Chat](https://github.com/TekGadgt/Conclave-Chat)
+
+A lightweight, self-hosted Discord alternative with text and voice chat. [Try it live](https://conclave.lol)
+
+- Full server/channel/message model with WebSocket real-time messaging
+- Voice/video chat via LiveKit
+- Ships as a single Go binary with the React frontend embedded
+- Built with Go, React, TypeScript, SQLite, Docker
