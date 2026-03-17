@@ -26,7 +26,7 @@ A daily CSS challenge game with AI-generated puzzles and real-time pixel-accurat
 
 ### [Conclave Chat](https://github.com/TekGadgt/Conclave-Chat)
 
-A lightweight, self-hosted Discord alternative with text and voice chat. [Try it live](https://conclave.lol)
+A lightweight, self-hosted Discord alternative with text and voice chat. [Try it live](https://conclave.lol) (password-protected during testing — reach out on LinkedIn or Bluesky for access)
 
 - Full server/channel/message model with WebSocket real-time messaging
 - Voice/video chat via LiveKit
