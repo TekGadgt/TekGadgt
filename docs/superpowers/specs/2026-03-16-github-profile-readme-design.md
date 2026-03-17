@@ -28,7 +28,7 @@ A single row of shields.io badges for core technologies. Covers both personal pr
 - SQLite
 - Docker
 
-Badges use a consistent style (e.g., `flat` or `for-the-badge`). Neutral colors or each tech's brand color.
+Badges use `flat` style with each technology's brand color.
 
 ### 3. Featured Projects
 
@@ -62,7 +62,7 @@ A lightweight, self-hosted Discord alternative with text and voice chat.
 
 ### 4. Social Links Footer
 
-A clean row of links. No big CTAs. The funnel is implicit — interesting projects lead to "who is this person?" lead to LinkedIn.
+A clean row of plain text links separated by ` | `. No icons, no badges. The funnel is implicit — interesting projects lead to "who is this person?" lead to LinkedIn.
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/)
 - [Bluesky](https://bsky.app/profile/tekgadgt.dev)
