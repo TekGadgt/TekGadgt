@@ -32,3 +32,7 @@ A lightweight, self-hosted Discord alternative with text and voice chat. [Try it
 - Voice/video chat via LiveKit
 - Ships as a single Go binary with the React frontend embedded
 - Built with Go, React, TypeScript, SQLite, Docker
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/) | [Bluesky](https://bsky.app/profile/tekgadgt.dev) | [tekgadgt.com](https://tekgadgt.com/) | [cssdaily.dev](https://cssdaily.dev) | [conclave.lol](https://conclave.lol)
