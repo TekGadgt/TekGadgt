@@ -35,4 +35,4 @@ A lightweight, self-hosted Discord alternative with text and voice chat. [Try it
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/) | [Bluesky](https://bsky.app/profile/tekgadgt.dev) | [tekgadgt.com](https://tekgadgt.com/) | [cssdaily.dev](https://cssdaily.dev) | [conclave.lol](https://conclave.lol)
+[LinkedIn](https://www.linkedin.com/in/ryan-mcgovern-tekgadgt/) | [Bluesky](https://bsky.app/profile/tekgadgt.dev) | [ryanmcgovern.dev](https://ryanmcgovern.dev/) | [cssdaily.dev](https://cssdaily.dev) | [conclave.lol](https://conclave.lol)
